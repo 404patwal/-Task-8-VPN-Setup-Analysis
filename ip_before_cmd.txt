@@ -1,0 +1,20 @@
+                                                                                                                                                            PS C:\Users\Vivek> curl ipinfo.io/ip                                                                                                                        
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : 157.49.35.136
+RawContent        : HTTP/1.1 200 OK
+                    access-control-allow-origin: *
+                    strict-transport-security: max-age=2592000; includeSubDomains
+                    Content-Length: 13
+                    Content-Type: text/plain; charset=utf-8
+                    Date: Fri, 03 Oct 2025 04:2...
+Forms             : {}
+Headers           : {[access-control-allow-origin, *], [strict-transport-security, max-age=2592000; includeSubDomains], [Content-Length, 13],
+                    [Content-Type, text/plain; charset=utf-8]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 13
+
